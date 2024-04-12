@@ -10,8 +10,8 @@ This is a Django REST Framework project for Local Artwork Showcase.
    - python manage.py migrate
 - Create a superuser to access the Django admin interface:
 python manage.py createsuperuser
-- Run the Server -
-python manage.py runserver
+- Run the Server 
+  - python manage.py runserver
 
 ## API Endpoints
 ## User Registraions
