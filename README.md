@@ -52,9 +52,11 @@ This is a Django REST Framework project for Local Artwork Showcase.
 - Method: POST,GET,UPDATE,DELETE(CRUD)
 
 ## Language
-Python,Django,Django RESTFramework
+- Python
+- Django
+- Django RESTFramework
 
 ## Database
-PostgreSQL
+- PostgreSQL
 
 
