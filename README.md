@@ -1,6 +1,6 @@
 # Artwork API
 
-This is a Django REST Framework project for managing artworks.
+This is a Django REST Framework project for Local Artwork Showcase.
 
 ## Setup
 1. Clone the repository:https://github.com/Sayed161/Local_art.git
@@ -49,5 +49,11 @@ python manage.py runserver
 
 - URL: "Artisits/"
 - Method: POST,GET,UPDATE,DELETE(CRUD)
+
+## Language
+## - Python,Django,Django RESTFramework
+
+## Database
+## PostgreSQL
 
 
