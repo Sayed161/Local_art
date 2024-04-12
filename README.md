@@ -51,9 +51,9 @@ python manage.py runserver
 - Method: POST,GET,UPDATE,DELETE(CRUD)
 
 ## Language
-## - Python,Django,Django RESTFramework
+Python,Django,Django RESTFramework
 
 ## Database
-## PostgreSQL
+PostgreSQL
 
 
