@@ -3,14 +3,14 @@
 This is a Django REST Framework project for Local Artwork Showcase.
 
 ## Setup
-1. Clone the repository:https://github.com/Sayed161/Local_art.git
-2.Install dependencies: Django,Django Restframework, Python (pip install -r requirements.txt)
-3.Run this two command - 
-python manage.py makemigrations
-python manage.py migrate
-4.Create a superuser to access the Django admin interface:
+- Clone the repository:https://github.com/Sayed161/Local_art.git
+- Install dependencies: Django,Django Restframework, Python (pip install -r requirements.txt)
+- Run this two command - 
+ python manage.py makemigrations
+ python manage.py migrate
+- Create a superuser to access the Django admin interface:
 python manage.py createsuperuser
-5.Run the Server -
+- Run the Server -
 python manage.py runserver
 
 ## API Endpoints
