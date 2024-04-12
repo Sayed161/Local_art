@@ -4,8 +4,7 @@ This is a Django REST Framework project for managing artworks.
 
 ## Setup
 1. Clone the repository:https://github.com/Sayed161/Local_art.git
-2.Install dependencies: Django,Django Restframework, Python 
-## pip install -r requirements.txt
+2.Install dependencies: Django,Django Restframework, Python (pip install -r requirements.txt)
 3.Run this two command - 
 python manage.py makemigrations
 python manage.py migrate
