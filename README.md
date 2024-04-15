@@ -14,6 +14,10 @@ This is a Django REST Framework project for Local Artwork Showcase.
 - Run the Server 
   - python manage.py runserver
 
+
+## ENV
+- env file has been remove where I have linked others things.
+
 ## API Endpoints
 ## User Registraions
 - URL : `Register/`
