@@ -16,7 +16,7 @@ This is a Django REST Framework project for Local Artwork Showcase.
 
 ## API Endpoints
 ## User Registraions
-- URL : Register/
+- URL : `Register/`
 - Method: POST
 - Description: Create a new User.
 - Required Fields : Username,First Name, Last Name,Email,password,confirm password
