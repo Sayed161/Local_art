@@ -22,14 +22,14 @@ This is a Django REST Framework project for Local Artwork Showcase.
 - Required Fields : Username,First Name, Last Name,Email,password,confirm password
 
 ## User Login
-- URL : /login/
+- URL : `/login/`
 - Method: POST
 ## Authentication - The API supports user authentication with token-based authentication.
 - Description: Login a User.Also get Random Token and UID.
 - Required Fields : Username,password
 
 ## User Logout
-- URL : logout/
+- URL : `logout/`
 - Method: POST
 - Description: Log out the authenticated user and delete the token.
 - Required Fields : None.
@@ -37,7 +37,7 @@ This is a Django REST Framework project for Local Artwork Showcase.
 ## Artworks
 ## Only Authenticated User
 
-- URL: "Artwork/"
+- URL: `Artwork/`
 - Method: POST,GET,UPDATE,DELETE(CRUD)
 -(GET) Description: Get a list of all artworks.
 -(POST)Description: Create a new artwork.
@@ -48,7 +48,7 @@ This is a Django REST Framework project for Local Artwork Showcase.
 ## Artist
 ## Only Authenticated User
 
-- URL: "Artisits/"
+- URL: `Artisits/`
 - Method: POST,GET,UPDATE,DELETE(CRUD)
 
 ## Language
