@@ -16,7 +16,7 @@ This is a Django REST Framework project for Local Artwork Showcase.
 
 
 ## ENV
-- env file has been remove where I have linked others things.
+- env file has been remove where I have linked postgresql name,password,host name also email and email security codes.
 
 ## API Endpoints
 ## User Registraions
